@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.ikovac.timepickerwithseconds.view;
+package org.apache.cordova.timepickerwithseconds;
 
 import java.text.DateFormatSymbols;
 import java.util.Calendar;
