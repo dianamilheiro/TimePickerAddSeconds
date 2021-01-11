@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-timepickerwithseconds",
+  "version": "1.0.0",
+  "description": "Adds seconds to android native time picker.",
+  "cordova": {
+    "id": "cordova-plugin-timepickerwithseconds",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianamilheiro/TimePickerWithSeconds.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+  ],
+  "author": "Diana Milheiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dianamilheiro/TimePickerWithSeconds/issues"
+  },
+  "homepage": "https://github.com/dianamilheiro/TimePickerWithSeconds#readme"
+}
